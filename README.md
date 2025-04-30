@@ -109,8 +109,6 @@ project/
 │   ├── train_custom_cnn.py
 │   ├── train_vgg19.py
 │   └── evaluate.py
-├── app.py            # streamlit demo
-├── processing.py     # preprocessing utilities
 └── README.md
 ```
 
